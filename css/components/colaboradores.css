@@ -1,0 +1,12 @@
+.colaborador{
+    background-color: aqua;
+    max-width: 20%;
+    width: calc((100% - 30px) / 3);
+    
+}
+
+.colaborador__foto{
+    width: 100%;
+    min-height: 500px;
+    object-fit: cover;
+}

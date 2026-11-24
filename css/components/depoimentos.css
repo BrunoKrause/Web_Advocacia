@@ -1,0 +1,22 @@
+.depoimento{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: calc((100% - 20px) / 2);
+    max-width: 40%;
+    background-color: chocolate;
+}
+
+.depoimento__topo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.depoimento__comentario{
+    width: 100%;
+    text-align: justify;
+    border-top: 1px solid thistle;
+}

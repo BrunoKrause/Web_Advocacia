@@ -1,0 +1,11 @@
+.diferencial{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: calc((100% - 20px) / 2);
+    max-width: 40%;
+}
+
+.diferencial__titulo{
+    text-align: center;
+}

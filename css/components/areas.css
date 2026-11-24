@@ -1,0 +1,16 @@
+.area{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    max-width: 30%;
+}
+
+.area__descricao{
+    text-align: justify;
+    line-height: 2.0;
+}
+
+.area__logo{
+    height: 80px;
+}
