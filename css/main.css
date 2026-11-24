@@ -1,0 +1,13 @@
+@import url(base.css);
+@import url(layout.css);
+
+@import url(components/areas.css);
+@import url(components/botao.css);
+@import url(components/colaboradores.css);
+@import url(components/depoimentos.css);
+@import url(components/diferenciais.css);
+@import url(components/form.css);
+@import url(components/logo.css);
+@import url(components/nav.css);
+@import url(components/servicos.css);
+@import url(components/titulos.css);

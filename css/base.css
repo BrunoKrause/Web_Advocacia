@@ -4,5 +4,19 @@
 }
 
 :root{
+    --cor-principal: #000000;
+    --cor-secundario: #008080;
+    --cor-fundo: #708090;
+    --cor-detalhes: #B8860B;
+    --cor-texto: #C0C0C0;
 
+    --espacamento-pequeno: 8px;
+    --espacamento-medio: 16px;
+    --espacamento-grande: 32px;
+
+    --borda-arredondada: 8px;
+}
+
+body{
+    background-color: var(--cor-detalhes);
 }
